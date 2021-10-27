@@ -1,4 +1,4 @@
-# project_matCss
+# README
 
 Hello folks! This is one of my very first (official) projects for my future resume/portfolio. 
 For the realisation I am using the CSS Framework - MaterializeCss.
