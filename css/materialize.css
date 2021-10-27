@@ -2725,6 +2725,8 @@ video.responsive-video {
   height: auto;
 }
 
+
+
 .pagination li {
   display: inline-block;
   border-radius: 2px;
@@ -3531,6 +3533,7 @@ table span.badge {
   margin-left: auto;
   left: auto;
   right: auto;
+
 }
 
 .row .col.s7 {
@@ -4737,7 +4740,7 @@ small {
   transition: box-shadow .25s, -webkit-box-shadow .25s;
   padding: 24px;
   margin: 0.5rem 0 1rem 0;
-  border-radius: 2px;
+  border-radius: 30px;
   background-color: #fff;
 }
 
@@ -4758,11 +4761,12 @@ small {
   position: relative;
   margin: 0.5rem 0 1rem 0;
   background-color: #fff;
+  padding: 6px;
   -webkit-transition: -webkit-box-shadow .25s;
   transition: -webkit-box-shadow .25s;
   transition: box-shadow .25s;
   transition: box-shadow .25s, -webkit-box-shadow .25s;
-  border-radius: 2px;
+  border-radius: 4px;
 }
 
 .card .card-title {
@@ -9136,6 +9140,22 @@ input[type=range]::-ms-thumb {
 @media only screen and (min-width: 601px) {
   .container-2 {
     width: 85%;
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media only screen and (min-width: 629px) {
+  .container-2 {
+    width: 85%;
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media only screen and (min-width: 1190px) {
+  .container-2 {
+    width: 50%;
     display: flex;
     flex-direction: row;
   }
