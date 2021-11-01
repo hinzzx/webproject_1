@@ -5854,6 +5854,7 @@ body.keyboard-focused .dropdown-content li:focus {
 }
 
 .collapsible {
+ 
   border-top: 1px solid #ddd;
   border-right: 1px solid #ddd;
   border-left: 1px solid #ddd;
@@ -9093,7 +9094,7 @@ input[type=range]::-ms-thumb {
   }
 }
 
-<!-- MY CSS --!>
+<!-- MY MODIFY CSS --!>
 
 #ctrx {
 
@@ -9167,4 +9168,9 @@ input[type=range]::-ms-thumb {
     display: flex;
     flex-direction: row;
   }
+}
+
+.paw {
+  width: 25px;
+  color: white;
 }
