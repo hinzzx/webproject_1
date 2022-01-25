@@ -5,7 +5,7 @@
 Hello folks! This is one of my very first touch of anything else than pure HTML & CSS, after learning basics of 'em. Don't laugh please xd!
 For the realisation I am using the CSS Framework - _MaterializeCss._
 
-PLEASE NOTE THAT I AM A COMPLETELY BEGINNER WHILE DOING THIS, SO THE CODE COULD BE A LITTLE BIT OF A STRUGGLE TO READ. 
+PLEASE NOTE THAT I AM A COMPLETE BEGINNER WHILE DOING THIS, SO THE CODE COULD BE A LITTLE BIT OF A STRUGGLE TO READ. 
 
 ```  NOTE: I WAS JUST EXPLORING MATERIALIZECSS' COMPONENTS AND THEIR POSSIBILITIES!``` 
 
